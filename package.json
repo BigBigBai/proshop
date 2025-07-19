@@ -21,11 +21,12 @@
   },
   "homepage": "https://github.com/BigBigBai/proshop#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4"
   },
   "devDependencies": {
     "concurrently": "^9.2.0",
-    "dotenv": "^17.2.0",
     "nodemon": "^3.1.10"
   }
 }
